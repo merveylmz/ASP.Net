@@ -1,0 +1,275 @@
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll.config
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\MvcProjesi.pdb
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\EntityFramework.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Owin.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Razor.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\WebGrease.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.Razor.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\EntityFramework.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.pdb
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll.config
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\MvcProjesi.pdb
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\EntityFramework.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Owin.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Razor.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\WebGrease.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.Razor.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\EntityFramework.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.dll
+C:\Users\ss\Downloads\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.pdb
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll.config
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\MvcProjesi.pdb
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\EntityFramework.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Owin.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Razor.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\WebGrease.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.Razor.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\EntityFramework.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.dll
+C:\Users\ss\Desktop\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.pdb
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll.config
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.pdb
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Owin.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Razor.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\WebGrease.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Razor.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.dll
+C:\Users\ss\Desktop\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.pdb
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll.config
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\MvcProjesi.pdb
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Web.Infrastructure.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Owin.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Razor.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\WebGrease.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Helpers.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Mvc.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Optimization.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.Razor.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Deployment.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\System.Web.WebPages.Razor.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Newtonsoft.Json.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Antlr3.Runtime.pdb
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\EntityFramework.SqlServer.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Google.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.csprojResolveAssemblyReference.cache
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.dll
+D:\STAJ 2\Staj_CD\MvcProjesi\MvcProjesi\obj\Debug\MvcProjesi.pdb

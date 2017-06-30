@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<!--Bu div, bizim ana içeriğimiz. Genişliğin, %75'ini almasını ve sola yaslanmasını istedik. -->
+<div style="width:75%;float:left">
+    <!--Burada Partial View yerine Html.Action metodunu çağırdık-->
+    @Html.Action("SonBesMakale")
+</div>
+<!--Bu div, bizim yan kenar içeriğimiz. Genişliğin, %25'ini almasını ve sola,
+    ana divin yanına, yaslanmasını istedik. -->
+<div style="width:25%;float:left">
+    @Html.Action("SonBesYorum")
+    @Html.Action("EnCokOnEtiket")
+</div>

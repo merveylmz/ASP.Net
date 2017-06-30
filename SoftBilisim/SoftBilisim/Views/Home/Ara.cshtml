@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/Views/shared/_Layout.cshtml";
+    ViewBag.Title = "Soft Bilişim | Arama Sonuçları";
+    ViewBag.Description = "Soft Bilişim arama sonuçları sayfası";
+    ViewBag.Keywords = "soft, bilişim, arama, sonuçları, sayfası";
+}
+
+<style>
+    #search-result {
+        padding: 20px;
+        color: black !important;
+        border-radius: 26px;
+        text-shadow: none;
+    }
+</style>
+
+<h2 style="text-align: center; font-size: 20px;">Arama Sonuçları</h2>
+
+<div id="search-result"></div>
+
+@section scripts{
+    <script src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+        google.load('search', '1');
+        function OnLoad() {
+            var s = window.location.search;
+            if (s.indexOf('search=') >= 0) {
+                s = s.substring(s.indexOf('search=') + 7);
+                if (s.indexOf('&') >= 0) {
+                    s = s.substring(0, s.indexOf('&'));
+                }
+                s = decodeURIComponent(s.replace('+', ' '));
+            }
+            else {
+                s = "";
+            }
+            var customSearchControl = new google.search.CustomSearchControl('001660367473914740636:7kr_dfq5oi0');
+            customSearchControl.draw('search-result');
+            customSearchControl.execute(s);
+
+        }
+        google.setOnLoadCallback(OnLoad);
+    </script>
+}

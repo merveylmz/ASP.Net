@@ -1,0 +1,166 @@
+﻿<!-- Ana sayfa içeriği için -->
+@{
+    Layout = "~/Views/shared/_Layout.cshtml";
+    ViewBag.Title = "Soft Bilisim | Ana Sayfa";
+    ViewBag.Description = "Soft Bilisim resmi web sitesi";
+    ViewBag.Keywords = "soft, bilisim, resmi, web, sitesi";
+}  
+
+<div id="slider">
+    <section id="jms-slideshow" class="jms-slideshow">
+        <div class="step" data-color="color-2">
+            <div class="jms-content">
+                <h3>Kurumsal Web Çözümleri</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod lacus.</p>
+                <a class="jms-link" href="#">Ayrıntılar</a>
+            </div>
+            <img src="/Content/img/1.png" alt="slider" />
+        </div>
+        <div class="step" data-color="color-3" data-y="900" data-rotate-x="80">
+            <div class="jms-content">
+                <h3>Sektörde 10. Yıl!</h3>
+                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+                <a class="jms-link" href="#">Ayrıntılar</a>
+            </div>
+            <img src="/Content/img/2.png" alt="slider" />
+        </div>
+        <div class="step" data-color="color-4" data-x="-100" data-z="1500" data-rotate="170">
+            <div class="jms-content">
+                <h3>Satış Sonrası Destek</h3>
+                <p>Mauris tellus lacus, ornare ligula eu, pellentesque iaculis purus.</p>
+                <a class="jms-link" href="#">Ayrıntılar</a>
+            </div>
+            <img src="/Content/img/3.png" alt="slider" />
+        </div>
+        <div class="step" data-color="color-5" data-x="3000">
+            <div class="jms-content">
+                <h3>Firmanızı yükseltin!</h3>
+                <p>Morbi a velit egestas, fermentum nunc in, gravida neque. Fusce vitae imperdiet lectus.</p>
+                <a class="jms-link" href="#">Ayrıntılar</a>
+            </div>
+            <img src="/Content/img/4.png" alt="slider" />
+        </div>
+        <div class="step" data-color="color-1" data-x="4500" data-z="1000" data-rotate-y="45">
+            <div class="jms-content">
+                <h3>Ziyaretçilerinizi arttırın!</h3>
+                <p> Nulla fringilla congue dictum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <a class="jms-link" href="#">Ayrıntılar</a>
+            </div>
+            <img src="/Content/img/5.png" alt="slider" />
+        </div>
+    </section>
+    <script type="text/javascript">
+        $(function () {
+
+            var jmpressOpts = {
+                animation: { transitionDuration: '0.8s' }
+            };
+
+            $('#jms-slideshow').jmslideshow($.extend(true, { jmpressOpts: jmpressOpts }, {
+                autoplay: true,
+                bgColorSpeed: '0.8s',
+                arrows: false
+            }));
+        });
+    </script>
+</div>
+
+<div class="content-text">
+    <h2>2016'nın En Yenilikçi Bilişim Firmasıyız</h2>
+    <img src="~/Content/img/ana1.jpg" alt="pay" class="img-left"/>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vestibulum eros eget massa ullamcorper sodales. Praesent quis mollis nisi. Praesent fermentum ligula sed mi placerat, faucibus bibendum mi venenatis. Vivamus finibus turpis nec lectus aliquam semper. Vestibulum rhoncus quis nunc ac rhoncus. Praesent mollis ullamcorper pharetra. Nulla lobortis ornare pellentesque. Nunc venenatis erat tempus sapien aliquam, nec lobortis neque tincidunt. Nullam sit amet varius nunc.
+    </p>
+    <p>
+        Maecenas egestas dictum libero, vel maximus dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus ut lectus pharetra, commodo tellus sed, tempus dui. Integer egestas lacus ut sem tempor, eu pellentesque mi finibus. Pellentesque vestibulum orci massa, at semper mauris porttitor nec. Praesent a lorem congue, euismod lacus sollicitudin, rutrum velit. Morbi a tempus arcu. Etiam ut dui eu tellus porta sollicitudin. Phasellus imperdiet viverra efficitur.
+    </p>
+    <p>
+        Suspendisse potenti. Maecenas et risus fermentum, volutpat diam venenatis, feugiat mi. Integer a laoreet nibh, porttitor ornare ex. Integer nec pharetra arcu, nec tempor arcu. Donec rutrum et lectus eu maximus. Donec arcu nibh, vehicula id felis ut, varius viverra est. Nulla ut consectetur ex. Suspendisse potenti. In semper euismod felis. Nam ante nulla, pharetra vel placerat lacinia, vulputate et arcu. Aliquam sed dictum diam. Donec viverra, nisl a commodo vehicula, neque nibh condimentum ipsum, gravida accumsan justo lorem a elit. Donec vehicula sed risus vitae accumsan. Integer faucibus arcu sed lectus scelerisque, quis feugiat leo cursus.
+    </p>    
+    
+</div>
+
+<div class="content-text" style="padding-bottom: 25px;">
+    <h2 style="margin-top: 20px;">Paketler</h2>
+    <div id="promotion">
+        <div class="promotion">
+            <div class="promotion-img">                
+            </div>
+            <h2>1. Paket</h2>
+            <span>Sed ac mollis urna</span><br /> 
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <a href="?">
+                <div class="promotion-button">
+                    <span>Ayrıntılar</span>
+                </div>
+            </a>
+        </div>
+        <div class="promotion">
+            <div class="promotion-img">
+                @*<img src="~/Content/img/ana3.jpg" />*@
+            </div>
+            <h2>2. Paket</h2>
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <a href="?">
+                <div class="promotion-button">
+                    <span>Ayrıntılar</span>
+                </div>
+            </a>
+        </div>
+        <div class="promotion">
+            <div class="promotion-img">
+                @*<img src="~/Content/img/ana2.jpg" />*@
+            </div>
+            <h2>3. Paket</h2>
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <a href="?">
+                <div class="promotion-button">
+                    <span>Ayrıntılar</span>
+                </div>
+            </a>
+        </div>
+        <div class="promotion">
+            <div class="promotion-img">
+                @*<img src="~/Content/img/ana3.jpg" />*@
+            </div>
+            <h2>4. Paket</h2>
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <span>Sed ac mollis urna</span><br />
+            <a href="?">
+                <div class="promotion-button">
+                    <span>Ayrıntılar</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="homepage-references">
+    <h2>Referanslar</h2>
+    <section class="tt-grid-wrapper">
+        <ul class="tt-grid tt-effect-3dflip tt-effect-delay">
+            <li><a href="#"><img src="/Content/img/1.jpg" alt="img01" /></a></li>
+            <li><a href="#"><img src="/Content/img/2.jpg" alt="img02" /></a></li>
+            <li><a href="#"><img src="/Content/img/3.jpg" alt="img03" /></a></li>
+            <li><a href="#"><img src="/Content/img/4.jpg" alt="img04" /></a></li>
+            <li><a href="#"><img src="/Content/img/5.jpg" alt="img05" /></a></li>
+            <li><a href="#"><img src="/Content/img/6.jpg" alt="img06" /></a></li>
+        </ul>
+        <nav class="nav">
+            <a class="tt-current"></a><a></a><a></a><a></a>
+        </nav>
+    </section>
+</div>
+
+<p>
+    Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tincidunt ipsum est, ac condimentum justo posuere sit amet. Nam nec ornare tortor. In tristique pretium orci sit amet imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur id tellus nunc. Cras posuere, neque quis rhoncus pharetra, sapien tellus tristique dolor, a feugiat eros ex at leo. Nullam orci quam, mollis quis semper vitae, fringilla eu arcu. Donec vitae leo in nunc cursus convallis quis et massa. Morbi malesuada libero et tortor hendrerit posuere. Donec et elit metus. Nullam interdum laoreet est.
+</p>
+<p>
+    Sed ac mollis urna. Nulla ultrices maximus turpis. Maecenas feugiat mauris nunc. Mauris non aliquet diam. In elit mauris, consectetur vitae tempus gravida, maximus eu lacus. Vestibulum massa leo, tempor eget orci sed, venenatis accumsan enim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vulputate nunc tellus. Sed faucibus, nibh vitae semper fringilla, risus augue pulvinar velit, vitae pulvinar nibh erat eget magna. Vestibulum in nisi sed nulla porta bibendum sollicitudin quis dolor. Nulla viverra est sed dui facilisis condimentum. Aliquam id volutpat mi. Sed a mauris vel massa luctus luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis nibh sollicitudin nisl sollicitudin mollis vestibulum non nunc.
+</p>

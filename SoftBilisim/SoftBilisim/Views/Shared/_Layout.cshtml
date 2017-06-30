@@ -1,0 +1,125 @@
+﻿
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title</title>
+
+    <meta name="description" content="@ViewBag.Description" />
+    <meta name="keywords" content="@ViewBag.Keywords" />
+    <meta name="robots" content="all" />
+    <meta name="revisit-after" content="1 week" />
+
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link href="~/Content/css/homepage-references.css" rel="stylesheet"/>
+
+    <link href="~/Content/img/faviconn.PNG" rel="shortcut icon"/>
+    <link href="~/Content/img/share.PNG" rel="image_src" />
+
+    @* Google Fonts Start*@
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic&subset=latin-ext' rel='stylesheet' type='text/css'>
+    @* Google Fonts End*@
+
+    @*Slider (start)*@
+    <script src="~/Scripts/jquery-1.7.1.js"></script>
+    <script src="~/Scripts/jmpress.min.js"></script>
+    <script src="~/Scripts/jquery.jmslideshow.js"></script>
+    <script src="~/Scripts/modernizr.custom.48780.js"></script>
+    @*Slider (end)*@
+
+</head>
+<body>
+    <section id="container">
+        <header>
+            <a href="/">
+                <div id="logo"></div>
+            </a>
+            <div id="social-media">
+                <a href="//youtube.com/" target="_blank">
+                    <div class="social youtube"></div>
+                </a>
+                <a href="//instagram.com/" target="_blank">
+                    <div class="social instagram"></div>
+                </a>
+                <a href="//plus.google.com/" target="_blank">
+                    <div class="social googleplus"></div>
+                </a>
+                <a href="//twiter.com/" target="_blank">
+                    <div class="social twitter"></div>
+                </a>
+                <a href="//facebook.com/" target="_blank">
+                    <div class="social facebook"></div>
+                </a>
+            </div>
+            @using (Html.BeginForm("Ara", "Home", FormMethod.Get))
+            {
+                <div id="search">
+                    <div id="search-area">
+                        <input type="text" class="search-text" name="search" />
+                    </div>
+                    <div id="search-button">
+                        <input type="submit" value="Ara" />
+                    </div>
+                </div>
+             }
+        </header>
+        <nav>
+            <a href="/">
+                <div class="nav-item first">
+                    <span>Ana Sayfa</span>
+                </div>
+            </a>
+            <a href="/Kurumsal/">
+                <div class="nav-item solutions">
+                    <div>Kurumsal</div>
+                    <div class="nav-solutions">
+                        <a href="/Kurumsal/Hakkımızda/">
+                            <div class="nav-solutions-item">
+                                <span>Hakkımızda</span>
+                            </div>
+                        </a>
+                        <a href="/Kurumsal/Referanslar/">
+                            <div class="nav-solutions-item">
+                                <span>Referanslar</span>
+                            </div>
+                        </a>
+                        <a href="/Kurumsal/Ekıbımız/">
+                            <div class="nav-solutions-item solution-last">
+                                <span>Ekibimiz</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </a>
+            <a href="/Urunler/">
+                <div class="nav-item">
+                    <span>Ürünler</span>
+                </div>
+            </a>
+            <a href="/OnlineDestek/">
+                <div class="nav-item">
+                    <span>Online Destek</span>
+                </div>
+            </a>
+            <a href="/Iletisim/">
+                <div class="nav-item last">
+                    <span>İletişim</span>
+                </div>
+            </a>
+        </nav>
+        <section id="content">
+            @RenderBody()
+        </section>
+        <footer>
+            <small>2016 &copy; Soft Bilişim Ltd. | Tüm Hakları Saklıdır.</small>
+        </footer>
+    </section>
+    <script src="~/Scripts/modernizr.custom.js"></script>
+    <script src="~/Scripts/classie.js"></script>
+    <script src="~/Scripts/thumbnailGridEffects.js"></script>
+    @RenderSection("scripts", required: false) 
+</body>
+</html>
+

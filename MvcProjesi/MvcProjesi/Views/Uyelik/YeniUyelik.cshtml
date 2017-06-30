@@ -1,0 +1,92 @@
+﻿@model MvcProjesi.Data.Uye
+
+@{
+    ViewBag.Title = "Yeni Üyelik";
+}
+<!--Layout sayfamızda sayfanın en alt kısmında scripts adlı bir sectionumuz tanımlanmıştı.
+    Script ve css kodlarımızı scripts sectionuna koyacağız.
+    Detaylı bilgi önceki yazılarımızda vardır.-->
+@section scripts{
+    <style type="text/css">
+        #formKapsayici {
+            box-shadow: 0 0 5px gray;
+            padding: 25px;
+            height: 500px;
+        }
+
+        #divSol, #divSag {
+            float: left;
+            margin-left: 25px;
+        }
+
+            #divSol *, #divSag * {
+                margin-top: 15px;
+            }
+
+        input[type="text"] {
+            width: 250px;
+        }
+
+        #btnUyeOl {
+            /*clear komutu ile önceki divlerin sola yaslanarak sıralanmasında, butonun bu yaslanmaya
+            uymayıp alt satıra inmesini sağlıyoruz*/
+            clear: both;
+            display: block;
+            margin-left: 132px;
+        }
+    </style>
+
+    <!--Projemizde tarih seçici kullanacağız. Bunun için Jquery ve Jqueryui den faydalanacağız.-->
+    <!--Öncelikle gerekli Jquery ui kütüphanemizi ekliyoruz. Jquery kütüphanemiz Layout sayfamızda
+        zaten tanımlanmış durumdadır.-->
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <!--Kütüphanelerimizin online olduğunu bu yüzden sayfa çalışırken, internet bağlantımızın aktif olması
+        gerektiğini lütfen göz önünde bulundurun.-->
+    <!--Tarih seçicimizi burada hazırlayacağız-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#textBoxDogum").datepicker();
+        });
+    </script>
+}
+<h2>Yeni Üyelik</h2>
+
+<!--Html.BeginForm ile yeni bir form oluşturuyoruz ve içeriğine elemanlarımızı ekliyoruz.-->
+<!--Formumuzun içinde resim yüklemesi de yapacağımız için, forma enctype = "multipart/form-data" özelliği veriyoruz-->
+<!--Ayrıca normalde sistemimize doğum gününü kaydetmeyecektik, bu yüzden bir örnek olması adına Jquery ile
+    doğum tarihini alarak, yaş kontrolü yapacağız.-->
+<!--Formun sunucuya gönderim yöntemini, FormMethod.Post yaptığımıza dikkat edin.
+Get ve Post metodları hakkında internette araştırma yapmanızda fayda var.-->
+@using (Html.BeginForm("YeniUyelik", "Uyelik", FormMethod.Post, new { enctype = "multipart/form-data", id = "formKapsayici" }))
+{
+    <div id="divSol">
+        @Html.LabelFor(i => Model.Ad)<br /><br />
+        @Html.LabelFor(i => Model.Soyad)<br /><br />
+        @Html.LabelFor(i => Model.EPosta)<br /><br />
+        @Html.LabelFor(i => Model.Sifre)<br /><br />
+        @Html.LabelFor(i => Model.WebSite)<br /><br />
+
+        <!--Tüm elemanlarda for takısını kullanırken doğum tarihi ve resim yüklemede kullanmadık.
+            Çünkü bu iki elaman daha önce hazırladığımız Uye modeline ait değiller.
+            Bu yüzden elle ekledik.-->
+        @Html.Label("Doğum Tarihiniz")<br /><br />
+        @Html.Label("Profil Resminiz")<br /><br />
+    </div>
+    <div id="divSag">
+        : @Html.TextBoxFor(i => Model.Ad)<br /><br />
+        : @Html.TextBoxFor(i => Model.Soyad)<br /><br />
+        : @Html.TextBoxFor(i => Model.EPosta)<br /><br />
+        : @Html.TextBoxFor(i => Model.Sifre)<br /><br />
+        : @Html.TextBoxFor(i => Model.WebSite)<br /><br />
+        : @Html.TextBox("textBoxDogum")<br /><br />
+
+        <!--Aşağıdaki input type="file" dosya yüklemeye yarayan, html elementidir.-->
+        <input type="file" id="inputFile" name="file" /> <br /><br />
+
+    </div>
+    <input type="submit" value="Üye Ol" id="btnUyeOl" />
+
+    <!--Html.ValidationSummary ile formda oluşan geçerlilik hatalarını liste halinde gösterebiliyoruz.-->
+    @Html.ValidationSummary()
+}

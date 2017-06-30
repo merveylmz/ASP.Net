@@ -1,0 +1,130 @@
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll.config
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.pdb
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.Formatting.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Http.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Http.WebHost.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Razor.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.Formatting.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Http.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Http.WebHost.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Razor.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.xml
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.csprojResolveAssemblyReference.cache
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.dll
+c:\users\bilgisayar merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.pdb
+C:\Users\Bilgisayar Merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.dll
+C:\Users\Bilgisayar Merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.dll
+C:\Users\Bilgisayar Merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\WebGrease.dll
+C:\Users\Bilgisayar Merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.pdb
+C:\Users\Bilgisayar Merkezi\documents\visual studio 2013\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll.config
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\SoftBilisim.pdb
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Infrastructure.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Razor.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\WebGrease.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.pdb
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.Razor.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.xml
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.csprojResolveAssemblyReference.cache
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.dll
+D:\STAJ 2\Projects\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.pdb
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll.config
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.pdb
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Razor.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\WebGrease.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.pdb
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Razor.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.xml
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.dll
+C:\Users\ss\Desktop\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.pdb
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll.config
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\SoftBilisim.pdb
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Infrastructure.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Razor.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\WebGrease.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Antlr3.Runtime.pdb
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\Newtonsoft.Json.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Optimization.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Net.Http.WebRequest.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Helpers.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Mvc.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.Razor.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Deployment.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\bin\System.Web.WebPages.Razor.xml
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.csprojResolveAssemblyReference.cache
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.dll
+D:\STAJ 2\Staj_CD\SoftBilisim\SoftBilisim\obj\Debug\SoftBilisim.pdb

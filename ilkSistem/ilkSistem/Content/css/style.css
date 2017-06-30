@@ -1,0 +1,90 @@
+﻿@import url(normalize.css);
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    background: gainsboro;
+    overflow-y: scroll;
+}
+#container {
+    width: 960px;
+    position: relative;
+    margin: 10px auto;
+    border: 1px solid black;
+    background: white;
+}
+/* *** header *** */
+header {
+    width: 960px;
+    height: 120px;
+    position: relative;
+}
+/* logo */
+#logo {
+    width: 384px;
+    height: 120px;
+    position: relative;
+    background: url(/Content/img/logo.png) no-repeat center center;
+}
+/* social media */
+#social-media {
+    width: 180px;
+    height: 48px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.social {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    float: right;
+    margin-left: 10px;    
+}
+/* *** nav *** */
+nav {
+    width: 960px;
+    height: 38px;
+    line-height: 40px;
+    text-align: center;
+    position: relative;
+}
+.nav-item {
+    width: 191px;
+    height: 38px;
+    position: relative;
+    float: left;
+    border: 1px solid black;
+    border-left: 0;
+    background: royalblue;
+    color: white;
+    font-size: 16px;
+}
+/* *** content *** */
+#content {
+    width: 920px;
+    padding: 20px;
+    position: relative;
+    text-align: justify;
+}
+#content h1 {
+    font-size: 18px;
+    text-align: center; 
+}
+.img-left {
+    width: 260px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+/* *** footer *** */
+/* *** footer *** */
+footer {
+    width: 960px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    position: relative;
+    border-top: 1px solid black;
+    color: white;
+    background: royalblue;
+}

@@ -1,0 +1,28 @@
+﻿<!--Modelimiz liste olarak geldiği için List<> içerisine aldık-->
+@model List<MvcProjesi.Data.Yorum>
+<div style="border:1px solid red;padding:25px;text-align:center;">
+    <h2>Son Beş Yorum</h2>
+    @{
+        //Bu sefer de for döngüsünü kullandık.
+        for (int i = 0; i < Model.Count() - 1; i++)
+        {
+            //Burada her yorumun etrafına çerçeve attık
+            <div style="border:1px solid red">
+                <!--Üye bilgilerini alırken Linq yardımıyla, direkt, yorumu yazan üyenin bilgilerine
+                    @@Model[i].Uye. şeklinde ulaşabildik.
+                    -->
+                <h3>Üye Bilgileri</h3>
+                Adı : @Model[i].Uye.Ad<br />
+                Soyadı : @Model[i].Uye.Soyad<br />
+                <h3>Makale Bilgileri</h3>
+                <!--Üye bilgilerini alırken Linq yardımıyla, direkt, yorumun ait olduğu
+                          makelenin bilgilerine @@Model[i].Makale. şeklinde ulaşabildik.
+                -->
+                Başlık : @Html.ActionLink(@Model[i].Makale.Baslik, "YorumMakalesi", new { yorumId = Model[i].YorumId })
+                <h3>Yorumun İçeriği</h3>
+                <p>@Model[i].Icerik</p>
+                Tarih : @Model[i].Tarih
+            </div>
+        }
+    }
+</div>

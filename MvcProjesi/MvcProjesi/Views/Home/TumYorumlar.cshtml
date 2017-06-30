@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MvcProjesi.Data.Yorum>
+
+@{
+    ViewBag.Title = "TumYorumlar";
+}
+
+<h2>TumYorumlar</h2>
+
+@{
+    //Veri kaynağımız liste olduğu için döngümüzü kuruyoruz.
+    foreach (var item in Model)
+    {
+        <div style="width:100%;margin-top:25px;box-shadow:0 0 5px gray;padding:25px;">
+            <h4>@Html.Display("Yorumun İçeriği")</h4>
+            @Html.DisplayFor(i => item.Icerik)
+            <hr />
+            @Html.Label("Yorumun Yazıldığı Makalenin Başlığı :")&nbsp;&nbsp;@Html.DisplayFor(i => item.Makale.Baslik)
+            <hr />
+
+            @Html.Label("Yorumun Yazan Kişinin Adı ve Soyadı : ")&nbsp;&nbsp;@{string adSoyad = item.Uye.Ad + " " + item.Uye.Soyad;}@adSoyad
+        </div>
+    }
+}

@@ -1,0 +1,28 @@
+﻿<!--
+    Model verisi, tek bir veriye işaret ediyordu. Ancak biz, Controller'den veriyi
+    bir liste halinde gönderdiğimiz için aşağıdaki satırı güncelledik.
+-->
+@model List<MvcProjesi.Data.Makale>
+
+@{
+    //En dışa bir çerçeve attık. İçeriği ortaladık ve 25'er piksel boşluk verdik.
+    <div style="border:1px solid black;padding:25px;text-align:center;">
+        <h2>Son Beş Makale</h2>
+        <!--
+        //Burada Model dediğimiz zaman, Controllerden gelen veriye direkt ulaşmaktayız.
+        //Biz burada liste halinde gelen Model'imizde döngü kurarak, içindeki verileri
+        //html olarak basacağız.
+            -->
+        @foreach (var item in Model)
+        {
+            //Burada her makalenin etrafına çerçeve attık
+            <div style="border:1px solid black">
+                <!--Başlığımızı link haline getirdik ve tıklandığı zaman, makaleId'yi parametre olarak
+                    Action'umuza geçtik-->
+                @Html.ActionLink(item.Baslik, "MakaleDetay", new { makaleId = item.MakaleId })
+                <p>@item.Icerik</p>
+                <strong>Tarih : @item.Tarih </strong>
+            </div>
+        }
+    </div>
+}

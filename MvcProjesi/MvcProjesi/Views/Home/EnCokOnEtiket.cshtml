@@ -1,0 +1,21 @@
+﻿<!--Modelimiz liste olarak geldiği için List<> içerisine aldık-->
+@model List<MvcProjesi.Data.Etiket>
+<div style="border:1px solid yellow;padding:25px;text-align:center;">
+    <h2>En Çok Kullanılan On Etiket</h2>
+    @{
+        //Bu sefer de while döngüsünü kullandık.
+        int sayi = 0;
+        while (sayi < Model.Count())
+        {
+            //Burada her etiketin etrafına çerçeve attık
+            <ul style="border:1px solid yellow">
+                <li>
+                    <!--Etiket başlıklarını, link haline getiriyoruz ve new{} kısmına Action'a gönderilmesi için
+                        etiketId parametresini yazıyoruz-->
+                    @Html.ActionLink(Model[sayi].Icerik, "EtiketinMakaleleri", new { etiketId = Model[sayi].EtiketId })
+                </li>
+            </ul>
+            sayi++;
+        }
+    }
+</div>
